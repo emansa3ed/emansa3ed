@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Eman Saeed</h1>
+<h3 align="center">A passionate Backend Developer specializing in .NET Core & Node.js </h3>
 
-<!--
-**emansa3ed/emansa3ed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,dotnet,mysql,mongodb,python,postman,git,github,visualstudio,vscode" />
+</p>
 
-Here are some ideas to get you started:
+## 💫 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Junior Backend Developer focused on building scalable and secure APIs.
+- 🛠 Skilled in Node.js, .NET Core, MySQL, and RESTful API development.
+- 📚 Always learning new backend tools, integrations, and best practices.
+
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eman-saeed-2421b5218/)  
+
+## 📊 GitHub Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true)<br/>
+
+## 📫 Contact Me
+
+📩 **Email:** [emansaeed644@gmail.com](mailto:emansaeed644@gmail.com)  
+

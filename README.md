@@ -16,10 +16,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eman-saeed-2421b5218/)  
 
-## 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true)<br/>
-
 ## 📫 Contact Me
 
 📩 **Email:** [emansaeed644@gmail.com](mailto:emansaeed644@gmail.com)  
